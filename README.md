@@ -6,7 +6,7 @@
 $ make run
 ```
 
-![image-20230101000700133](E:\junior_0\Computer Graphics\assignment\effect(final).png)
+![image-20230101000700133](.\effect(final).png)
 
 可以移动鼠标控制摄像机的视角，按动`WSAD`键控制摄像机的运动方向。按`ESC`退出。
 
