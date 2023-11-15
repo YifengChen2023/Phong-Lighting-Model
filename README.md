@@ -6,7 +6,7 @@
 $ make run
 ```
 
-[![image](.\effect(final).png)](https://github.com/YifengChen2023/Phong-Lighting-Model/blob/main/effect(final).png)
+![image](https://github.com/YifengChen2023/Phong-Lighting-Model/blob/main/effect(final).png)
 
 可以移动鼠标控制摄像机的视角，按动`WSAD`键控制摄像机的运动方向。按`ESC`退出。
 
